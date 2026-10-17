@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    color: white;
+    font-size: large;
+}
+ol{
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    align-self: auto;
+}
+a{
+    right: 10px;
+    background-color: gray;
+    position: fixed;
+    bottom: 10px;
+}
+ul{
+    color: white;
+}
+img{
+    width: 40%;
+    height: 50%;
+}
